@@ -1,0 +1,322 @@
+/*************************************************************
+Template Name: TPail - Responsive Multipurpose Portfolio / Resume / CV / vCard
+Template URI: https://themeforest.net/user/themepail/portfolio
+Description: TPail - Responsive Multipurpose Portfolio / Resume / CV / vCard
+Copyright 2019 ThemePail All rights reserved.
+Author URI: https://themepail.com
+Author: ThemePail
+Version: 1.0
+**************************************************************/
+.btn-common {
+    margin: 0 0 0 12px;
+}
+.navbar-brand {
+    margin-right: 0;
+}
+.navbar-expand-lg .navbar-nav .nav-item:last-child .nav-link {
+    margin-left: -10px;
+    margin-right: 0;
+}
+.navbar-expand-lg .navbar-nav .nav-link::before {
+    content: "]";
+}
+.navbar-expand-lg .navbar-nav .nav-link::after {
+    content: "[";
+}
+.navbar-expand-lg .navbar-nav .dropdown-menu {
+    left: auto;
+    right: -100%;
+    -webkit-transform: none;
+    transform: none;
+}
+.navbar-expand-lg .navbar-nav .dropdown-menu,
+header.stick .navbar-expand-lg .navbar-nav .dropdown-menu{
+    left: auto;
+}
+.banner-section.image{
+    background: url("../images/banner-image-rtl.jpg");
+}
+.banner-caption{
+	direction: ltr;
+}
+.img-banner {
+    text-align: right;
+}
+.img-banner.banner-caption p {
+    margin-left: auto;
+}
+.profile-thumb {
+    padding: 0 30px 30px 0;
+}
+.profile-thumb[style*="visibility: visible;"]::before{
+    right: 0;
+    left: auto;
+    border-right: 0 solid transparent;
+    border-left: 400px solid transparent;
+    border-bottom: 400px solid #3F43EA;
+}
+/**/
+.experience-right {
+    padding-right: 40px;
+    padding-left: 0;
+}
+.experience-details span {
+    left: 40px;
+    right: auto;
+}
+.experience-details{
+	padding: 0 110px 0 0;
+}
+.experience-details h5{
+	margin: 0 0 0 119px;
+}
+.percent {
+    right: auto;
+    left: 0;
+}
+.progress {
+	right: -1px;
+}
+.mfp-image-holder .mfp-close,
+.mfp-iframe-holder .mfp-close {
+    left: 10px;
+    right: auto;
+}
+/**/
+.post-meta a {
+    margin: 0;
+}
+.post-meta span {
+    padding: 0px 0px 0 8px;
+    display: inline-block;
+}
+.post-meta span::before {
+    left:auto;
+    right: 0px;
+}
+/**/
+.testimonial-slide{
+    direction: ltr;
+}
+.testimonial-slide h2,
+.owl-carousel.owl-drag .owl-item{
+	text-align: right;
+}
+.testimonial-slide .owl-item img {
+    display: inline-block;
+}
+.owl-theme .owl-nav {
+    left: 0;
+    right: auto;
+}
+.owl-carousel .owl-nav button.owl-prev,
+.owl-carousel .owl-nav button.owl-next {
+    margin: 0 10px 0 0;
+}
+.owl-theme .owl-dots {
+    text-align: right;
+    right: 0;
+    left: auto;
+}
+.owl-theme .owl-dots .owl-dot span {
+    margin: 5px 0 5px 12px;
+}
+/**/
+.contact-details ul li{
+	padding: 16px 56px 17px 0;
+}
+.contact-details ul li i {
+    left: auto;
+    right: 0;
+}
+/**/
+.mfp-title {
+    text-align: right;
+    padding: 0 0 0 40px;
+}
+.mfp-counter {
+    top: 0;
+    left: 0;
+    right: auto;
+    direction: ltr;
+}
+.mfp-arrow-left::after {
+    right: 10px;
+    left: auto;
+}
+#contact-form .form-control{
+	direction: ltr;
+	text-align: right;
+}
+.help-block.with-errors {
+    right: 0;
+}
+
+#google-map .gm-style-iw {
+    padding-right: 15px;
+}
+
+.scroll-to-top{
+    left: 15px;
+    right: auto;
+}
+
+/*inner page*/
+.page-banner-content {
+    left: auto;
+    right: 0;
+}
+ul.breadcrumb li a {
+    padding:0 0 0 17px;
+    margin:0 0 0 5px;
+    display: inline-block;
+    position: relative;
+}
+ul.breadcrumb li a::before {
+    content: "\e875";
+    left: 0;
+    right: auto;
+}
+ul.bullet-list li::before,
+ul.circle-list li::before {
+    left: auto;
+    right: 0;
+}
+ul.bullet-list li,
+ul.circle-list li {
+    padding-left: 0;
+    padding-right: 16px;
+}
+ol li {
+    padding-left: 0;
+    padding-right: 5px;
+    list-style-position: inside;
+}
+ol ol {
+    padding-left: 0;
+    padding-right: 22px;
+}
+ul ul {
+    padding-left: 0;
+    padding-right: 10px;
+}
+
+/*blog*/
+.pagination a:first-child {
+    padding-left: 10px;
+}
+.sidebar {
+    padding-left: 0;
+    padding-right: 15px;
+}
+.sidebar ul.last{
+    text-align: right;
+}
+.sidebar ul.last iframe {
+    width: 100%;
+    max-width: 248px;
+    margin: 0 0 0 auto;
+}
+/*single*/
+.comment-details {
+    padding-left: 0;
+    padding-right: 20px;
+}
+.comment-avatars, .comment-details {
+    float: right;
+}
+.comment-block.reply {
+    margin-left: 0;
+    margin-right: 105px;
+}
+.comment-details a h5 {
+    margin-right: 0;
+    margin-left: 80px;
+}
+.comment-main.people .comment-details {
+    margin-left: 0;
+    margin-right: 25px;
+}
+.comment-main.people .comment-details::before {
+    right: -29px;
+    border-right: 15px solid transparent;
+    border-left: 15px solid #f4f4f4;
+}
+.btn-reply {
+    left: 20px;
+    right: auto;
+}
+.comment-details h6 {
+    text-align: left;
+}
+
+/*
+responsive style
+*****************/
+@media (max-width: 1199.98px) {
+    .social-link {
+        text-align: right;
+    }
+}
+
+@media (max-width: 991.98px) {
+    .navbar-expand-lg .navbar-nav .dropdown-menu, 
+    header.stick .navbar-expand-lg .navbar-nav .dropdown-menu {
+        right: auto;
+    }
+    header .navbar-toggler{
+        margin-right:0;
+        margin-left: 15px;
+    }
+    a.navbar-brand {
+        margin-left: 0;
+        margin-right: 15px;
+    }
+    .experience-right {
+        padding-right: 0;
+    }
+    .testimonial-thumb {
+        background-position: bottom right;
+    }
+    .smile-pic {
+        right: 11%;
+    }
+    .g-recaptcha > div > div {
+        text-align: left;
+    }
+}
+
+@media (max-width: 767.98px){
+    .btn-common {
+        margin: 0 0 15px 12px;
+    }
+    .experience-details span {
+         left: 0; 
+     }
+}
+
+@media (max-width: 575.98px){
+    .comment-details {
+        padding-right: 0;
+    }
+    .comment-main.people .comment-details {
+        margin-right: 0;
+    }
+    .comment-block.reply {
+        margin-right: 20px;
+    }
+}
+@media (max-width: 480px) {
+    .profile-thumb[style*="visibility: visible;"]::before {
+        border-bottom-width: 250px !important;
+        border-left-width: 250px;
+    }
+    .profile-thumb {
+        padding: 0 20px 20px 0;
+    }
+}
+@media (max-width: 991.98px){
+    .experience-details {
+        padding: 94px 0 0 0;
+    }
+}

@@ -1,0 +1,91 @@
+a, a:focus, a:hover,
+.btn-bordered,
+.experience-left h3 span,
+.experience-box i,
+.experience-details a,
+.services-box i,
+.navbar .dropdown-item:focus,
+.navbar .dropdown-item:hover,
+.dropdown-item.active,
+.dropdown-item:active,
+.portfolio-section .controls a.mixitup-control-active,
+.portfolio-section .controls a:hover,
+.blog-item:hover h2 a,
+.post-meta a:hover,
+.testimonial-slide h6 span,
+.contact-details ul li:hover i,
+ul.colored li::before,
+.pagination a:hover,
+.pagination a.active,
+.pagination a:hover i,
+.pagination a.active i,
+.sidebar li a:hover,
+.page-not-found h1,
+.comment-details a h5,
+.footer a,
+.footer a:hover{
+	color: #4676fa;
+}
+::-moz-selection,
+::selection{
+	background-color: #4676fa;
+}
+.btn-color,
+.btn-color:focus,
+.btn-black:hover,
+.portfolio-item::before,
+.portfolio-item .overlay a:hover,
+.pricing-box.populer .pricing-head,
+.pricing-box.populer .pricing-head::after,
+.owl-theme .owl-nav [class*="owl-"]:hover,
+.statistics-section::before,
+.scroll-to-top i,
+.spinner::before,.spinner::after,
+header .navbar-toggler,
+.services-box:hover{
+    background-color: #4676fa;
+}
+.btn-color,
+.btn-color:focus,
+.btn-black:hover,
+.portfolio-item .overlay a:hover,
+.pricing-box.populer .pricing-body{
+	border-color: #4676fa;
+}
+.profile-thumb[style*="visibility: visible;"]::before{
+    border-bottom: 400px solid #4676fa;
+}
+.btn-bordered,
+.portfolio-section .controls a:hover,
+.portfolio-section .controls a.mixitup-control-active{
+	border: 1px solid #4676fa;
+}
+header.stick,
+nav.navbar .navbar-collapse{
+	background-color: rgba(8,70,238,0.9);
+}
+.navbar-expand-lg .navbar-nav .nav-link:hover,
+.navbar-expand-lg .navbar-nav .nav-link.active,
+.navbar-expand-lg .navbar-nav .dropdown.show .nav-link,
+ul.breadcrumb li a,
+.footer a,
+.footer a:hover{
+	color: #99B3FB;
+}
+.banner-section,
+.inner-page-banner,
+.banner-section.videos::before,
+.banner-section.image::before{
+	background-color: #4676fa;
+	background-image: linear-gradient(to right, #0846EE , #4676fa);
+}
+.skills-section,
+.contact-details::before {
+    background-color: #4676fa;
+}
+.footer{
+    background-color: #0846EE;
+}
+.footer p{
+    color: #b3b3b3;
+}

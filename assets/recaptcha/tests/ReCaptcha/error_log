@@ -1,0 +1,6 @@
+[02-Dec-2019 12:30:12 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/themepail/tpail.themepail.com/assets/recaptcha/tests/ReCaptcha/ReCaptchaTest.php on line 30
+[02-Dec-2019 12:30:13 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/themepail/tpail.themepail.com/assets/recaptcha/tests/ReCaptcha/ReCaptchaTest.php on line 30
+[02-Dec-2019 12:30:15 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/themepail/tpail.themepail.com/assets/recaptcha/tests/ReCaptcha/RequestParametersTest.php on line 30
+[02-Dec-2019 12:30:16 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/themepail/tpail.themepail.com/assets/recaptcha/tests/ReCaptcha/RequestParametersTest.php on line 30
+[02-Dec-2019 12:30:17 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/themepail/tpail.themepail.com/assets/recaptcha/tests/ReCaptcha/ResponseTest.php on line 30
+[02-Dec-2019 12:30:18 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/themepail/tpail.themepail.com/assets/recaptcha/tests/ReCaptcha/ResponseTest.php on line 30

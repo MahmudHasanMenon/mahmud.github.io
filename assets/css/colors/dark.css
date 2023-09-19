@@ -1,0 +1,71 @@
+.testimonial-section .testimonial-thumb{
+	background: url(../../images/testimonial/testimonial-bg-dark.png) no-repeat;
+}
+body, html,
+.about-content ul li a,
+.experience-details p,
+.form-control,
+.form-control:focus{
+	color: #dbdbdb;
+}
+h1, h2, h3, h4, h5, h6,
+dl dt,pre,
+.table thead th,
+.blog-item h2 a{
+    color: #f6f6f6;
+}
+.about-section,
+.services-section,
+.pricing-section,
+.testimonial-section,
+.experience-box,
+.contact-form,
+.form-control,
+.form-group label,
+.form-control:focus{
+	background: #202020;
+}
+.about-section::before,
+.testimonial-section::before{
+	opacity: 0.1;
+}
+.experience-section,
+#education.experience-section,
+.portfolio-section,
+.blog-section,
+.contact-section,
+.content,
+#pre-loader{
+	background: #171717
+}
+.experience-box i,
+.services-box,
+.pricing-box,
+.owl-carousel .owl-nav button.owl-prev,
+.owl-carousel .owl-nav button.owl-next{
+	background: #313131;
+}
+.pricing-body,
+.about-content hr,
+.post-meta,
+.form-control{
+    border-color: #393939;
+}
+.owl-theme .owl-dots .owl-dot span{
+	border-color: #313131;
+}
+.owl-theme .owl-dots .owl-dot.active span,
+.owl-theme .owl-dots .owl-dot:hover span{
+	border-color: #585757;
+}
+.services-box,
+.experience-box,
+.contact-form {
+    box-shadow: 0 0 0;
+}
+.form-control:focus ~ label{
+    color: #8c8c8c;
+}
+.post-meta{
+	color: #404040;
+}

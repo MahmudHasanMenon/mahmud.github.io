@@ -1,0 +1,6 @@
+[02-Dec-2019 12:31:32 America/Chicago] PHP Fatal error:  Interface 'ReCaptcha\RequestMethod' not found in /home1/themepail/tpail.themepail.com/assets/recaptcha/src/ReCaptcha/RequestMethod/CurlPost.php on line 38
+[02-Dec-2019 12:31:33 America/Chicago] PHP Fatal error:  Interface 'ReCaptcha\RequestMethod' not found in /home1/themepail/tpail.themepail.com/assets/recaptcha/src/ReCaptcha/RequestMethod/CurlPost.php on line 38
+[02-Dec-2019 12:31:34 America/Chicago] PHP Fatal error:  Interface 'ReCaptcha\RequestMethod' not found in /home1/themepail/tpail.themepail.com/assets/recaptcha/src/ReCaptcha/RequestMethod/Post.php on line 36
+[02-Dec-2019 12:31:34 America/Chicago] PHP Fatal error:  Interface 'ReCaptcha\RequestMethod' not found in /home1/themepail/tpail.themepail.com/assets/recaptcha/src/ReCaptcha/RequestMethod/Post.php on line 36
+[02-Dec-2019 12:31:37 America/Chicago] PHP Fatal error:  Interface 'ReCaptcha\RequestMethod' not found in /home1/themepail/tpail.themepail.com/assets/recaptcha/src/ReCaptcha/RequestMethod/SocketPost.php on line 38
+[02-Dec-2019 12:31:38 America/Chicago] PHP Fatal error:  Interface 'ReCaptcha\RequestMethod' not found in /home1/themepail/tpail.themepail.com/assets/recaptcha/src/ReCaptcha/RequestMethod/SocketPost.php on line 38
