@@ -491,7 +491,7 @@ header.stick .navbar-expand-lg .navbar-nav .dropdown-menu {
 banner section
 ***************/
 .banner-section{
-	min-height: 600px !important;
+	max-height: 500px !important;
 	color: #fff;
 	text-align: center;
 	position: relative;
@@ -645,16 +645,21 @@ about section
     border-bottom: 400px solid #3f43ea;
 }
 .about-content {
-	padding-top: 30px;
+	padding-top: 0px;
 }
 .about-content h2{
 	margin-bottom: 8px;
 }
+
 .about-content h4{
     font-size: 20px;
 	margin-bottom: 10px;
 }
+.about-content h5{ 
+	margin-bottom: 5px !important;
+}
 .about-content p{
+    margin-top: 20px;
 	margin-bottom: 12px;
 }
 .about-content hr{
