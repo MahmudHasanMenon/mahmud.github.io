@@ -645,7 +645,9 @@ about section
     border-bottom: 400px solid #3f43ea;
 }
 .about-content {
-	padding-top: 0px;
+    padding-left: 60px;
+    padding-right: 40px;
+	padding-top: 0px; 
 }
 .about-content h2{
 	margin-bottom: 8px;
