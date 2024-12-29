@@ -609,6 +609,7 @@ about section
 **************/
 .about-section{
     position: relative;
+    background: #fff;
 }
 .about-section::before {
     background: url(../images/about/about-bg.png);
@@ -622,6 +623,15 @@ about section
     top: 0;
     height: 100%;
     width: 100%;
+}
+.user-profile {
+    height: 60px;           /* Height of the container */
+    width: 60px;            /* Width of the container */
+    border-radius: 50%;      /* Use percentage for a perfect circle */
+    overflow: hidden;        /* Ensures any excess content is clipped */
+    display: inline-block;   /* Ensures the element respects width/height */
+    object-fit: cover; 
+    margin-right: 20px;
 }
 .profile-thumb {
     z-index: 1;
